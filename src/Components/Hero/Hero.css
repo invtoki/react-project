@@ -1,0 +1,57 @@
+.hero-txt{
+    text-align: center;
+    margin: 64px;
+}
+
+.hero-logos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.xxx{
+    width: 1257px;
+    height: 109.14px;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.whyash{
+    margin: 161px auto;
+    text-align: center;
+    width: 930px;
+    height: 88px;
+}
+
+.whyash1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.whyash1 h5{
+    margin-bottom: 10px;
+}
+
+.whyash p{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.blw-why{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.hero-sec-1{
+    margin-top: 45px;
+}
+
+.hero-sec-2{
+    margin: -70px 30px;
+}
+
+.hero-sec-3{
+    margin: -78px 40px;
+}

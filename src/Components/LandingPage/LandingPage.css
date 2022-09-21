@@ -1,0 +1,153 @@
+/* google font */
+
+.sec1{
+    height: auto;
+    width: 100vw;
+    background: #F1F1FF;
+}
+
+.navbar{
+    display: flex; 
+    margin: 0px auto; 
+    padding-top: 28px ;
+    justify-content: space-between;
+    align-content: center;
+    width: 1202px;
+    height: 52px;
+}
+
+.logo{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    align-self: center;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.nav-ctrl{
+    display: flex;
+    justify-content: space-between;
+    width: 322px;
+    height: 52px;
+    left: 548px;
+    top: 47px;
+}
+
+.nav-ctrl p{
+    font-size: 13px;
+    align-self: center;
+}
+
+.nav-ctrl img{
+    gap: 12px;
+    margin-left: 5px;
+}
+
+.nav-auth{
+    display: flex;
+    justify-content: space-between;
+    width: 231px;
+    height: 52px;
+    left: 1107px;
+    top: 28px;
+}
+
+.nav-auth p{
+    align-self: center;
+    font-size: 13px;
+}
+
+.nav-auth button{
+    width: 137px;
+    height: 52px;
+    color: white;
+    background: #4F46BA;
+    border: none;
+}
+
+.header-content{
+    flex: 1;
+
+}
+
+.header-content-x h1{
+    font-weight: 600;
+    font-size: 50px;
+    color: #000000;
+}
+
+.header-content-x {
+    margin-top: 65px;
+    color: #757095;
+}
+
+.opinion p{
+    margin: 15px auto;
+}
+
+.header-content button{
+    width: 137px;
+    height: 52px;
+    color: white;
+    background: #3734A9;
+    border: none;
+    border-radius: 7px;
+}
+
+.header-content-2{
+    margin-top: 46px;
+    margin-bottom: 53px;
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
+
+.header-content-2 p{
+
+}
+.content-flex{
+    width: 1202px;
+    margin: 70px auto 0px auto;
+    display: flex;
+
+}
+.header-content-3{
+    width: 230px;
+    display: flex;
+    text-align: center;
+    line-height: 30px;
+    font-size: 13px;
+    color: #757095;
+    margin-bottom: 107px;
+    justify-content: space-between;
+}
+
+.header-content-3 img{
+    width: 18px;
+    margin-right: 5px;
+}
+
+.sec-flex{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.header-content-3 p{
+
+}
+
+.header-content-x{
+    width: 600px;
+    height: 600px;
+   
+}
+.illustration img{
+    width: 840px;
+    position: absolute;
+    transform: translateY(-30px);
+    right: 0;
+}
